@@ -1,1 +1,27 @@
-# advanced-housing-dataset
+# ADVANCED HOUSING DATASET
+
+The dataset was used to learn EDA, feature selection and feature engineering in the beginning stages of studying ml. 
+
+
+# STEPS IN EDA:
+
+1. HANDLE MISSING VALUES
+2. FIND ALL THE NUMERICAL VALUES
+3. DISTRIBUTION OF ALL NUMERICAL VALUES
+4. FIND ALL CATEGORICAL VALUES
+5. CARDINALITY OF ALL CATEGORICAL VALUES
+6. OUTLIERS
+7. RELATIONSHIP BETWEEN INDEPENDENT AND DEPENDENT VALUES
+
+
+# STEPS IN FEATURE ENGINEERING:
+
+1. FIX MISSING VALUES
+2. TEMPORAL VARIABLES(Date&Time)
+3. CATEGORICAL VARIABLES
+4. STANDARDIZE THE VALUES
+
+
+# FEATURE SELECTION:
+
+Lasso regression was used to select the features which had most impact on the housing prices.
